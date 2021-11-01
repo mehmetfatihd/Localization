@@ -36,7 +36,7 @@ msgid "Metrics"
 msgstr "Ölçüm"
 
 msgid "Total"
-msgstr "toplam"
+msgstr "Toplam"
 
 msgid "Win"
 msgstr "Kazanma"
