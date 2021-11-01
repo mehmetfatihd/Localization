@@ -59,7 +59,7 @@ msgid "FOK"
 msgstr "GİE"
 
 msgid "Minute"
-msgstr "1 dakika"
+msgstr "Dakika"
 
 msgid "Hour"
 msgstr "Saat"
