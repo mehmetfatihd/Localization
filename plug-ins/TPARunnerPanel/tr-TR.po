@@ -173,4 +173,4 @@ msgid "WaitingForConnection..."
 msgstr "Bağlantı bekleniyor..."
 
 msgid "Working..."
-msgstr "Çalışıypr..."
+msgstr "Çalışıyor..."
